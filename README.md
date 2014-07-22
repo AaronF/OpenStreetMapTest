@@ -1,2 +1,2 @@
-OpenStreetMapTest
-=================
+OpenStreetMap Heatmap Test
+==========================
