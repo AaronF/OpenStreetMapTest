@@ -6,7 +6,7 @@
 
 //this should be moved to the default mail sender
 function mailUser($to, $subject, $contents){
-	$from = "farelert (alerts@farelert.com)";
+	$from = "test @test@example.com";
 	$headers = "From:" . $from;
 	mail($to,$subject,$contents,$headers);
 }

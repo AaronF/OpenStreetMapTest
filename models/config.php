@@ -32,8 +32,6 @@
 	require_once("class.user.php");
 	require_once("class.mail.php");
 	require_once("funcs/funcs.user.php");
-	require_once("funcs/funcs.general.php");
-	require_once("funcs/funcs.tracking.php");
 	require_once("funcs/funcs.comms.php");
 	require_once("class.data.php");
 	require_once("class.newuser.php");
